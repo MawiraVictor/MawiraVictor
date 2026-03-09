@@ -74,15 +74,6 @@ Git identifies every object using a **SHA-1 hash (40 characters)** which helps d
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mawiravictor&theme=github-dark"/>
-</p>
-
-
-
-
 # ⭐ Featured Project
 
 ### 🏦 Banking Management System
