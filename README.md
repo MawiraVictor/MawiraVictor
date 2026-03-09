@@ -60,20 +60,6 @@ Git identifies every object using a **SHA-1 hash (40 characters)** which helps d
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=mawiravictor&theme=transparent&count_private=true&show_icons=true&rank_icon=github" />
-
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mawiravictor&theme=transparent&count_private=true" />
-
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=mawiravictor&theme=transparent&layout=donut&langs_count=8" />
-
-</div>
-
----
-
 # ⭐ Featured Project
 
 ### 🏦 Banking Management System
