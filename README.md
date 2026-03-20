@@ -54,7 +54,7 @@ Git identifies every object using a **SHA-1 hash (40 characters)** which helps d
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,docker,kubernetes,postgres,mysql,sqlite,nginx,nodejs,php,java,react,tailwind,arduino" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,docker,kubernetes,postgres,mysql,sqlite,nginx,php,java,arduino" />
 
 </p>
 
