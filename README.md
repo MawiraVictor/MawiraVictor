@@ -6,7 +6,7 @@
 
 # 👋 Hi there, I'm Victor Mawira
 
-<h3 align="center">Low Level Developer | Cybersecurity Enthusiast | Open Source Learner</h3>
+<h3 align="center">Low Level Developer | Cybersecurity Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Victor+Mawira;Low+Level+Programmer;Cybersecurity+Engineer+in+Training;Linux+Enthusiast;Open+Source+Contributor" />
