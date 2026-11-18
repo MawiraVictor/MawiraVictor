@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Victor Mawira 👋</h1>
+<h1 align="center">Victor Mawira</h1>
 <p align="center">
   <b>Cybersecurity student at Strathmore University · eJPT · CCNA</b><br>
-  I build networks, then try to break them. Based in Nairobi, Kenya 🇰🇪
+  I build networks, then try to break them. Based in Nairobi, Kenya.
 </p>
 
 <p align="center">
@@ -12,20 +12,20 @@
 
 ---
 
-### 🛡️ About me
+### About me
 
-- 🎓 Computer Networks & Cybersecurity student at **Strathmore University**
-- 🏅 **eJPT** (INE, 2026): passed with 82%, including **100% on web app pentesting**
-- 🌐 **CCNA** Switching & Routing, Cisco Ethical Hacking, Network Defense and Cyber Threat Management
-- 💼 Completed cybersecurity job simulations with **Deloitte, EY, Mastercard and AIG**
-- 🎯 Looking for **SOC analyst or penetration testing internships**, in Kenya or remote
+- Computer Networks & Cybersecurity student at **Strathmore University**
+- **eJPT** (INE, 2026): passed with 82%, including **100% on web app pentesting**
+- **CCNA** Switching & Routing, Cisco Ethical Hacking, Network Defense and Cyber Threat Management
+- Completed cybersecurity job simulations with **Deloitte, EY, Mastercard and AIG**
+- Looking for **SOC analyst or penetration testing internships**, in Kenya or remote
 
-### 🔭 Currently working on
+### Currently working on
 
 - **[secnews](https://github.com/MawiraVictor/security-news-scraper-project)**: a CLI that aggregates security news, tags it by topic, extracts CVEs and builds a daily digest
 - Pentesting labs and writeups to build on the eJPT
 
-### 🧰 Tech I use
+### Tech I use
 
 **Offensive security**<br>
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=linux&logoColor=white)
@@ -50,7 +50,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it shows |
 |---|---|
@@ -61,7 +61,7 @@
 | **[MariaDB-Replication-Cluster](https://github.com/MawiraVictor/MariaDB-Replication-Cluster)** | Primary + 2 replicas with HAProxy read balancing |
 | **[USSD-Based-Mobile-Wallet](https://github.com/MawiraVictor/USSD-Based-Mobile-wallet-Simulation)** | FastAPI USSD wallet with hashed PINs, lockout and atomic transfers |
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MawiraVictor&theme=github_dark" alt="GitHub stats">
