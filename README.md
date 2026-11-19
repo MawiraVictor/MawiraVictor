@@ -15,7 +15,7 @@
 ### About me
 
 - Computer Networks & Cybersecurity student at **Strathmore University**
-- **eJPT** (INE, 2026): passed with 82%, including **100% on web app pentesting**
+- **eJPT** (INE, 2026): Host and Network Penetration Testing, Assessment Methodologies, Host and Network Auditing and Web Application Penetration Testing
 - **CCNA** Switching & Routing, Cisco Ethical Hacking, Network Defense and Cyber Threat Management
 - Completed cybersecurity job simulations with **Deloitte, EY, Mastercard and AIG**
 - Looking for **SOC analyst or penetration testing internships**, in Kenya or remote
