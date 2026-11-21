@@ -1,6 +1,4 @@
-<h1 align="center">Victor Mawira</h1>
 <p align="center">
-  <b>Cybersecurity student at Strathmore University · eJPT · CCNA</b><br>
   I build networks, then try to break them. Based in Nairobi, Kenya.
 </p>
 
