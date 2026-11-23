@@ -1,5 +1,5 @@
 <p align="center">
-  I build networks, then try to break them. Based in Nairobi, Kenya.
+  <h1>I build networks, then try to break them. Based in Nairobi, Kenya.</h1>
 </p>
 
 <p align="center">
